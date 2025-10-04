@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/FOURDEX_BSC",
   "VITE_SEO_SITE_NAME": "FOUR DEX",
   "VITE_SEO_SITE_DESCRIPTION": "The ultimate leverage trading hub on Binance Smart Chain.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/safu-dex-9271/",
+  "VITE_SEO_SITE_URL": "https://fourdex.io",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@FOURDEX_BSC",
